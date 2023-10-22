@@ -1,3 +1,3 @@
 # java-practice
-This is an arbitrary pointless change.
+This file shows the java practice.
 
